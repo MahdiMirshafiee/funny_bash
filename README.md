@@ -1,11 +1,20 @@
 # Funny Bash Scripts
 **Or Maybe Bullshit!**
 
-- Matrix Rain
+<details>
+  <summary>Matrix Rain</summary>
+<br>
 ![Matrix GIF](gifs/matrix.gif)
+</details>
 
-- Typing Effect
+<details>
+  <summary>Typing Effect</summary>
+<br>
 ![Type GIF](gifs/type.gif)
+</details>
 
-- ASCII Clock
-- ![Clock GIF](gifs/clock.gif)
+<details>
+  <summary>ASCII Clock</summary>
+<br>
+![Clock GIF](gifs/clock.gif)
+</details>
