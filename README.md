@@ -2,19 +2,22 @@
 **Or Maybe Bullshit!**
 
 <details>
-  <summary>Matrix Rain</summary>
-<br>
-![Matrix GIF](gifs/matrix.gif)
+<summary>Matrix Rain</summary>
+
+![Matrix GIF](https://github.com/MahdiMirshafiee/funny_bash/raw/main/gifs/matrix.gif)
+
 </details>
 
 <details>
-  <summary>Typing Effect</summary>
-<br>
-![Type GIF](gifs/type.gif)
+<summary>Typing Effect</summary>
+
+![Type GIF](https://github.com/MahdiMirshafiee/funny_bash/raw/main/gifs/type.gif)
+
 </details>
 
 <details>
-  <summary>ASCII Clock</summary>
-<br>
-![Clock GIF]([gifs/clock.gif](https://github.com/MahdiMirshafiee/funny_bash/blob/main/gifs/clock.gif))
+<summary>ASCII Clock</summary>
+
+![Clock GIF](https://github.com/MahdiMirshafiee/funny_bash/raw/main/gifs/clock.gif)
+
 </details>
