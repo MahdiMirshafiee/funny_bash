@@ -16,5 +16,5 @@
 <details>
   <summary>ASCII Clock</summary>
 <br>
-![Clock GIF](gifs/clock.gif)
+![Clock GIF]([gifs/clock.gif](https://github.com/MahdiMirshafiee/funny_bash/blob/main/gifs/clock.gif))
 </details>
