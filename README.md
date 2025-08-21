@@ -1,4 +1,4 @@
-# Funny Bash Script
+# Funny Bash Scripts
 
 - Matrix Rain
 
